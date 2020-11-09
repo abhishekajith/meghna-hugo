@@ -9,10 +9,8 @@ contact:
     info: Kerala
   - icon: ti-mobile
     info: 'Phone: not yet'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: not yet'
   contact_form:
     enable: true
     form_action: "#"
